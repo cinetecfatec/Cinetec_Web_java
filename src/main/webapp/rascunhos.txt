@@ -1,0 +1,8 @@
+
+    $id_filme = $_POST["id_filme"];
+    $nome_filme = $_POST ["nome"];
+    $foto_cartaz = $_POST ["foto_cartaz"];
+    $trailer = $_POST ["trailer"];
+    $genero = $_POST ["genero"];
+    $distribuidora = $_POST ["cad_email"];
+    $senha = $_POST ["cad_senha"];
